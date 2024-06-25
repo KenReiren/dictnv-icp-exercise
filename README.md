@@ -1,6 +1,6 @@
 # dictnv-icp-exercise
 
 John Kenneth L. Nerier
-Plaridel
+Quezon
 Male
 June 25
